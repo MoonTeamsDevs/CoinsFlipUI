@@ -5,3 +5,5 @@
 | Command        | Permission | Description                        | Alias |
 |--------------|------------|------------------------------------|-------|
 | `/coinsflip` | * (all)          | Allows you to create a coins flip. | /cf   |
+# Vidéo
+*Soon.*
