@@ -7,7 +7,8 @@
 | `/coinsflip` | * (all)          | Allows you to create a coins flip. | /cf   |
 # Dépendance
 - The following plugins are necessary for the plugin to work at its best.
-- Les plugins ci-dessous sont nécessaire pour que le plugin puisse fonctionner au maximum.@cr
+- Les plugins ci-dessous sont nécessaire pour que le plugin puisse fonctionner au maximum.
+
 | Plugin Name  | Link                                                       |
 |--------------|------------------------------------------------------------|
 | `FormAPI`    | [Click Here](https://github.com/jojoe77777/FormAPI/tree/master) |
