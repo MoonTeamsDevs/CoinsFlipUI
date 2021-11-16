@@ -1,0 +1,27 @@
+# If the person placing the order is not a player.
+# Si la personne effectuant la commande n'est pas un joueur.
+not-player: "You cannot use this command from the console."
+# If the player does not have the money.
+# Si le joueur n'a pas l'argent.
+not-have-money: "You do not own the money you have chosen."
+# If he already has one in progress.
+# Si il en a déjà un en cours.
+already-create: "You already have a coins flip in progress..."
+# If no coins flip exist.
+# Si aucun coins flip existe.
+no-coins-flip: "No coins flip is in progress."
+# Message lorsque quelqu'un gagne un coins flip.
+win-coins-flip: "§e{winner} §fjust won a coin flip worth §61000 §fagainst §e{loser}§f."
+#If he does it against himself.
+# Si il le fait contre lui même.
+not-yourself: "You can't play against yourself."
+# If the coin flip was created without error.
+# Si le coins flip a été créer sans erreur.
+create-with-succes: "Your flip with a value of §e{coins} §fhas been created."
+
+# Main Forms
+title: "§e- §7CoinsFlip §e-"
+view-coins-flip: "See the current coins flip"
+create-coins-flip: "Create a coins flip"
+choose-values: "Choose the number of money you want to put"
+coins-flip-infos: "§1{player}\n§7{coins}"

@@ -1,0 +1,15 @@
+# WARINING This plugin works only with the EconomyAPI plugin.
+# ATTENTION Ce plugin fonctionne uniquement avec le plugin EconomyAPI.
+
+# Prefix
+prefix: "§f(§7Moon§eTeams§f) "
+# Enter the values that will be available when creating a coins flip.
+# Entrée les valeurs qui seront disponible lors de la création d'un coins flip.
+values:
+  - "5000"
+  - "10000"
+  - "20000"
+
+# Order description.
+# Description de la commande.
+description: "Allows you to create a coins flip."
