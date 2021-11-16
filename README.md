@@ -4,4 +4,4 @@
 # Command
 | Command        | Permission | Description                        | Alias |
 |--------------|------------|------------------------------------|-------|
-| `/coinsflip` | *          | Allows you to create a coins flip. | /cf   |
+| `/coinsflip` | * (all)          | Allows you to create a coins flip. | /cf   |
