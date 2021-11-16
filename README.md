@@ -8,7 +8,7 @@
 # Dépendance
 | Plugin Name  | Link                                                       |
 |--------------|------------------------------------------------------------|
-| `FormAPI`    | ![link](https://github.com/jojoe77777/FormAPI/tree/master) |
-| `EconomyAPI` | ![link](https://poggit.pmmp.io/p/EconomyAPI/5.7.2)         |
+| `FormAPI`    | [Click Here](https://github.com/jojoe77777/FormAPI/tree/master) |
+| `EconomyAPI` | [Click Here](https://poggit.pmmp.io/p/EconomyAPI/5.7.2)         |
 # Vidéo
 *Soon.*
