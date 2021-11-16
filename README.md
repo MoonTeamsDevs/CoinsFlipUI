@@ -5,5 +5,10 @@
 | Command        | Permission | Description                        | Alias |
 |--------------|------------|------------------------------------|-------|
 | `/coinsflip` | * (all)          | Allows you to create a coins flip. | /cf   |
+# Dépendance
+| Plugin Name  | Link                                                       |
+|--------------|------------------------------------------------------------|
+| `FormAPI`    | ![link](https://github.com/jojoe77777/FormAPI/tree/master) |
+| `EconomyAPI` | ![link](https://poggit.pmmp.io/p/EconomyAPI/5.7.2)         |
 # Vidéo
 *Soon.*
