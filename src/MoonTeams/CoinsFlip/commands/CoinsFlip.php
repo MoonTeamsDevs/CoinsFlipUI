@@ -42,11 +42,25 @@ class CoinsFlip extends Command {
                 case 1:
                     $this->sendViewCoinFlip($player);
                     break;
+                case 2:
+                    if (Coins::getCoins()->exists($player->getName())){
+                        $config = Coins::getCoins();
+                        EconomyAPI::getInstance()->addMoney($player, $config->get($player->getName()));
+                        $config->remove($player->getName());
+                        $config->save();
+                        $player->sendMessage(Main::getInstance()->getConfig()->get("prefix") . Lang::get("success-remove"));
+                        return;
+                    }else{
+                        $player->sendMessage(Main::getInstance()->getConfig()->get("prefix") . Lang::get("not-have-coins-flip"));
+                        return;
+                    }
+                    break;
             }
         });
         $ui->setTitle(Lang::get("title"));
         $ui->addButton(Lang::get("create-coins-flip"));
         $ui->addButton(Lang::get("view-coins-flip"));
+        $ui->addButton(Lang::get("remove-coins-flip"));
         $ui->sendToPlayer($player);
     }
 

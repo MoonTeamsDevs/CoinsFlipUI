@@ -18,6 +18,12 @@ not-yourself: "You can't play against yourself."
 # If the coin flip was created without error.
 # Si le coins flip a été créer sans erreur.
 create-with-succes: "Your flip with a value of §e{coins} §fhas been created."
+# If the player has no active flip coins.
+# Si le joueur n'a pas de coins flip d'actif.
+not-have-coins-flip: "You do not have any flip coins in progress."
+# If the corner flip has been deleted.
+# Si le coins flip a bien été supprimer.
+success-remove: "The coins flip has been removed."
 
 # Main Forms
 title: "§e- §7CoinsFlip §e-"
@@ -25,3 +31,4 @@ view-coins-flip: "See the current coins flip"
 create-coins-flip: "Create a coins flip"
 choose-values: "Choose the number of money you want to put"
 coins-flip-infos: "§1{player}\n§7{coins}"
+remove-coins-flip: "Delete its coins flip"

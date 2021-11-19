@@ -1,6 +1,8 @@
 name: CoinsFlipUI
 author: MoonTeams
-version: 1.0.0
+version: 1.0.1
 main: MoonTeams\CoinsFlip\Main
 api: 3.0.0
+depend:
+  - EconomyAPI
 description: "Plugin de coins flip sous format de form."
