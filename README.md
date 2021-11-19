@@ -21,4 +21,4 @@
 
 # Vidéo
 
-https://youtu.be/Qb_h-MwkKN0
+[Click here to see the plugin in action.](https://youtu.be/Qb_h-MwkKN0)
