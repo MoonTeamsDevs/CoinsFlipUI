@@ -2,7 +2,7 @@
 
 - Plugin made for Minecraft Bedrock Edition, using **Pocket-Mine MP software**. 
 - Plugin allowing to make money bets. 2 players bet the same amount, a player is randomly drawn between the 2 and this one will get back the double of his bet.
-- 
+
 # Command
 
 | Command        | Permission | Description                        | Alias |
