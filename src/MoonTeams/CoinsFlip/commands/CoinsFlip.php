@@ -132,6 +132,7 @@ class CoinsFlip extends Command {
             }
         }else{
             $ui->setContent(Lang::get("no-coins-flip"));
+            $ui->addButton(Lang::get("back"));
         }
         $ui->sendToPlayer($player);
     }

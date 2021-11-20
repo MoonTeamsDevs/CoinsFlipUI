@@ -1,7 +1,5 @@
 name: CoinsFlipUI
-authors:
-  - MoonTeams
-  - Zoumi
+author: MoonTeams
 version: 1.0.1
 main: MoonTeams\CoinsFlip\Main
 api: 3.0.0
